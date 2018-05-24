@@ -1,7 +1,7 @@
 import os
 import sys
 
-# Test after changing email.
+# Test after changing username.
 
 # Make the URL
 def create_url(location, domain, ext):
